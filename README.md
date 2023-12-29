@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+This is David, nice to meet u!
+🌱 I’m currently learning Engineering Management at City University of Hong Kong
+🤔 I’m looking for help with Artificial Intelligence assisted approaches to smart manufacturing
+😄 feel free to comment!
 <!--
 **nwpuwzy/nwpuwzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
